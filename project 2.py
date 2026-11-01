@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import os
 from datetime import datetime
-from ultralytics import YOLO
+from ultralytics 
 
 # PROJECT CONFIGURATION
 
